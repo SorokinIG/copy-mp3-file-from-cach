@@ -1,0 +1,3 @@
+db = C:\Users\gimpl\AppData\Roaming\Xiami
+temp = C:\Users\gimpl\AppData\Roaming\Xiami\cache\temp-audio
+save = E:\
